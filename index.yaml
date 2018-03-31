@@ -8,6 +8,6 @@ entries:
     digest: a1ef737830f4c4fb4d2fa8b30527801d04a712b1cecb0efe51a446c46d7eb1da
     name: hybrid-cluster-manager-chart
     urls:
-    - https://raw.githubusercontent.com/khahmed/hcmfiles/hybrid-cluster-manager-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/khahmed/hcmfiles/master/hybrid-cluster-manager-chart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-03-31T16:13:41.757367-04:00
