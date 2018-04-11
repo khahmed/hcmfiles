@@ -8,6 +8,6 @@ entries:
     digest: 2f89dfe9b6541bc6b582a6180c3b6833730f5d9fba85a94da3f0e951ee613996
     name: hybrid-cluster-manager
     urls:
-    - https://raw.githubusercontent.com/khahmed/hcmfiles/master/hybrid-cluster-manager-0.2.0.tgz
-    version: 0.2.0
+    - https://raw.githubusercontent.com/khahmed/hcmfiles/master/hybrid-cluster-manager-0.3.0.tgz
+    version: 0.3.0
 generated: 2018-04-02T20:38:47.324506-04:00
