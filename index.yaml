@@ -8,7 +8,7 @@ entries:
     digest: 7d62f74d8959ee4e7d2cd19c6e31981fed6a0262766192aaf7f57675ce6be71a
     name: hybrid-cluster-manager
     urls:
-    - hybrid-cluster-manager-0.3.0.tgz
+    - https://raw.githubusercontent.com/khahmed/hcmfiles/master/hybrid-cluster-manager-0.3.0.tgz
     version: 0.3.0
   trader:
   - apiVersion: v1
